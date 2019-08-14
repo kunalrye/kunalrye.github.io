@@ -13,9 +13,9 @@ picture: assets/images/profile.jpg
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: false
-resume-local: true 
-resume-url: Kunal_Rai_Resume.pdf
+resume-external: true
+#resume-local: true 
+resume-url: kunalrye.github.io/Kunal_Rai_Resume.pdf
 
 url: https://kunalrye.github.io
 # your url: http://USERNAME.github.io
