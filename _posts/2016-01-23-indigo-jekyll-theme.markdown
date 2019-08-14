@@ -1,35 +1,26 @@
----
-title: ":ramen: Indigo, minimalist jekyll theme"
+﻿---
+title: "Decline Curve Analysis"
 layout: post
-date: 2016-01-23 22:10
-tag: jekyll
-image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
+date: 2019-08-02 22:10
+# tag: jekyll
+# image: 
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+description: "Using ML and feature engineering to produce predictions for seemingly random events"
 category: project
-author: johndoe
+author: kunalrai
 externalLink: false
 ---
 
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
-
-Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
 
 ---
 
-What has inside?
-
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- Travis
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
-
----
-
-[Check it out](http://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](http://github.com/sergiokopplin/indigo/issues).
+# What is Decline Curve Analysis?
+Decline curve analysis is a technique commonly used by oil and gas companies to be able to forecast production of an oil well. 
+## How can you do 'decline curve analysis' on non-declining wells?
+This was a puzzle for me as well initially. However, as with most ML problems, manipulation of the data is the most important part of cracking the model. Using the data available, I conducted a lot of feature engineering to determine what data was useful and what data was not in determining future production of these wells. 
+## Tools I used to create the model
+I used a combination of Python (pandas, pyspark, scikit-learn, seaborn), SQL,  a cluster, Azure, and DataRobot to create the model. 
+## Results and Takeaways
+By learning about machine learning & data science workflows I was able to figure out best practices and make progress towards creating a model. My model ultimately had a 25% mean absolute error on the future production of wells that were non-declining and will be integrated into the product that handles all forecasting of oil wells. Through the modeling process I was able to learn the importance of understanding the data through visualization, model creation, hyperparameter tuning, and feature engineering. 
