@@ -1,13 +1,13 @@
 ﻿---
-title: "Graphic Design"
+title: "Tool Development @ Lockheed Martin"
 layout: post
-date: 2018-02-25 22:10
+date: 2018-05-08 22:10
 # tag: jekyll
 # image: 
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "My ventures into graphic design"
+description: "My first SWE internship"
 category: project
 author: kunalrai
 externalLink: false
@@ -17,21 +17,11 @@ externalLink: false
 ---
 
 
-## How I started
+## Creating a standalone tool
+My first project at LM Aeronautics was to develop a standalone tool that created a value for software changes that were made to the F-35. I had to take a set of software changes that had been assigned monetary value and determine how to predict the value that a new software update would provide. Since this software was related to the performance of a physical fighter jet, there were quite a few variables to consider. 
 
-Graphic design is something that I have taken from ideation to fruition, multiple times starting in high school. Design has always interested me, beginning with my introduction to Google's material design when I had an android. Seeing firsthand how the design itself of the OS affected the user experience drew me in. From there, I started to pickup Photoshop and redesigned my robotics program logos as well as the STEM program's website. Since then, I have cultivated my interest by further developing my design skills and learning more about the field continually.
+### Process
+In order to predict, I had to understand the data first. I took a period to understand the factors, meet with SME's who provided data, and pre-process the data before developing the tool. 
 
-## My Portfolio
-If you would like to check out some of the designs described below, feel free to check out my [Behance](https://www.behance.net/ksrai9914a6).
-
-## IEEE Merchandise
-I noticed that specific departments and clubs that were rather large, do not have a equivalent campus prescence due to their lack of marketing and representation at key events. This was especially an issue for the Electrical and Computer Engineering department as well as Rice's IEEE chapter. To increase campus prescence, I created Rice ECE merchandise, which net around $3k in sales and recieved orders from current students, professors, and alumni alike. 
-
-## Parody Designs
-At Rice, parody designs have taken over a significant amount of the residential college (dorm) merchandise scene. I took a liking to these designs and crafted some mock designs for Jones college merchandise using logos like Versace, North Face, and Nike. Beyond college merchandise, for Rice's Beer Bike event, I designed the shirts for the 2019 event, a take on Travis Scott's Astroworld, 'Smashtroworld'.
-
-
-## Side Designs
-
-Outside of larger groups I also design logos and images for fun or for newer clubs/groups. If you need something designed or have ideas for how I can improve my designs, feel free to let me [know!](ksr3@rice.edu)
-
+### Development
+Due to software constraints, I had to open myself to new development options. Given that the tool needed to be portable and the output easily understandable for presentation, I decided to pickup Visual Basic for Applications and develop in a spreadsheet. It was very different coming from Python but I was able to learn quite a bit about the limitations and benefits of my choice. Ultimately, the tool was simple and fast, while producing predictions of value within 15% of the actual value. 
