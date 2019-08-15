@@ -1,5 +1,5 @@
 ﻿---
-title: "Decline Curve Analysis @ Chevron"
+title: ":stock: Decline Curve Analysis @ Chevron"
 layout: post
 date: 2019-08-02 22:10
 # tag: jekyll
