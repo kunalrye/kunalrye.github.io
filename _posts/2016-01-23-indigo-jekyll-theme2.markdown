@@ -19,7 +19,7 @@ externalLink: false
 This is an ongoing project that I am working on with Professor Sachdeva at the Jones Graduate School of Business. 
 
 # Learning about Pandas
-Starting my research position with Professor Sachdeva was my introduction to data analysis and manipulation with Python. I quickly learned about Pandas, Spark, Linux, and the many tools available from those libraries/softwares. Working with large amounts of data and using dataframes to work with data gave me a easy visualization of how the data was stored and how to manipulate it. By testing and using stackoverflow to learn about how Pandas works, I was able to start data engineering the location data that was provided and manipulate it to be able to filter for specific things across multiple data sets. 
+Starting my research position with Professor Sachdeva was my introduction to data analysis and manipulation with Python. I quickly learned about Pandas, Spark, Linux, and the many tools available from those libraries/softwares. Working with large amounts of data was new to me and learning how to use dataframes to work with the data easily was among the first steps I took. Further the value of visualization of the data through libraries like seaborn and matplotlib gave me a better idea of what I was working with and what the next steps should be. By trial and error, and using stackoverflow to learn about the details of how Pandas works, I was able to start data engineering the location data that was provided and manipulate it to be able to filter for specific things across multiple data sets. 
 
 # Results and Takeaways
 I am still working on this project so as progress is made, I will update this page with more content. 
