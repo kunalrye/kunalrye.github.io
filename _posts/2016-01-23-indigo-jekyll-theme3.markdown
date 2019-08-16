@@ -19,7 +19,7 @@ externalLink: false
 
 ## How I started
 
-Graphic design is something that I have taken from ideation to fruition, multiple times starting in high school. Design has always interested me, beginning with my introduction to Google's material design when I had an android. Seeing firsthand how the design itself of the OS affected the user experience drew me in. From there, I started to pickup Photoshop and redesigned my robotics program logos as well as the STEM program's website. Since then, I have cultivated my interest by further developing my design skills and learning more about the field continually.
+Graphic design is something that I have taken from ideation to fruition, multiple times starting in high school. Design has always interested me, beginning with my introduction to Google's material design update when I had an android. Seeing firsthand how the design itself of the OS affected the user experience drew me in. From there, I started to pickup Photoshop and redesigned my robotics program logos and STEM program's website in high school. Since then, I have cultivated my interest by further developing my design skills through more projects and learning more about the field continually.
 
 ## My Portfolio
 If you would like to check out some of the designs described below, feel free to check out my [Behance](https://www.behance.net/ksrai9914a6).
