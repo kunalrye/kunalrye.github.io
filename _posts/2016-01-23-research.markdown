@@ -15,8 +15,9 @@ externalLink: false
 
 
 ---
-
-![](http://rankings.ft.com/lib/img/logos/entity/rice-university-jones)
+<p align="center">
+    ![](http://rankings.ft.com/lib/img/logos/entity/rice-university-jones)
+</p>
 
 This is an ongoing project that I am working on with Professor Sachdeva at the Jones Graduate School of Business. 
 
