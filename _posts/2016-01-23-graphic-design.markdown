@@ -16,6 +16,7 @@ externalLink: false
 
 ---
 
+![](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a008e375908053.5d546a110405b.png)
 
 ## How I started
 

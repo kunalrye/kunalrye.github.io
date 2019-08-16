@@ -16,6 +16,8 @@ externalLink: false
 
 ---
 
+![](https://www.petroskills.com/images/nov18-sub/equation.png)
+
 # What is Decline Curve Analysis?
 Decline curve analysis (DCA) is a technique commonly used by oil and gas companies to be able to forecast production of an oil well. DCA typically looks at a plot of rate versus time to find where the production will intersect the x-axis, which is the point at which the production output is no longer of value or significant. The integral of this curve provides the EUR or expected ultimate recovery / reserve.
 ## How can you do 'decline curve analysis' on non-declining wells?
