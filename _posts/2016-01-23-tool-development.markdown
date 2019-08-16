@@ -12,8 +12,11 @@ category: project
 author: kunalrai
 externalLink: false
 ---
-![](https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/photo/frigate/LM-logo.png)
 
+<p align="center">
+  <img width="640" height="375" src="https://www.lockheedmartin.com/content/dam/lockheed-martin/aero/photo/F-35/F35Direct_PR.jpg">
+
+</p>
 
 ## Creating a standalone tool
 My first project at LM Aeronautics was to develop a standalone tool that created a monetary value for software updates that were made to the F-35. I had to take a dataset of past software changes that had a calculated monetary value and determine how to predict the value that a new software update would provide. Since this software was related to the performance of a physical fighter jet, there were quite a few variables to consider. 
