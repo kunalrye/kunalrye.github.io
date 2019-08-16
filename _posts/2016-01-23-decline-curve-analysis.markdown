@@ -1,5 +1,5 @@
 ﻿---
-title: ":chart_with_downwards_trend: Decline Curve Analysis @ Chevron"
+title: "Decline Curve Analysis @ Chevron :chart_with_downwards_trend: "
 layout: post
 date: 2019-08-02 22:10
 # tag: jekyll

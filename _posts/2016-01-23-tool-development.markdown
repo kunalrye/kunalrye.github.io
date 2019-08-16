@@ -1,5 +1,5 @@
 ﻿---
-title: ":hammer: Tool Development @ Lockheed Martin"
+title: "Tool Development @ Lockheed Martin :hammer:"
 layout: post
 date: 2018-05-08 22:10
 # tag: jekyll
