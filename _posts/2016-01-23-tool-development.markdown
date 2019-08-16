@@ -13,7 +13,7 @@ author: kunalrai
 externalLink: false
 ---
 <!-- ![image](assets/images/LM-logo.png) -->
-<img src="LM-logo.png" width="800" />
+<img src="assets/images/LM-logo.png" width="800" />
 
 ## Creating a standalone tool
 My first project at LM Aeronautics was to develop a standalone tool that created a monetary value for software updates that were made to the F-35. I had to take a dataset of past software changes that had a calculated monetary value and determine how to predict the value that a new software update would provide. Since this software was related to the performance of a physical fighter jet, there were quite a few variables to consider. 
