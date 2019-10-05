@@ -1,0 +1,34 @@
+﻿---
+title: "Current Projects"
+layout: post
+date: 2019-10-04 22:10
+# tag: jekyll
+# image: 
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "What I am I working on currently?"
+category: project
+author: kunalrai
+externalLink: false
+---
+
+
+## Project 1: Granola / Protein Brand
+
+As someone allergic to peanuts and treenuts, it is often difficult to find sweets, snacks, and other food items that I can eat, especially convenient food. I am working on developing the business case for a brand that will produce healthy food items for individuals allergic to peanuts and treenuts.
+
+<p align="center">
+  <img width="640" height="375" src="money.jpg">
+
+</p>
+
+## Project 2: Investment Strategies and Decisions
+
+With the money I make from internships and research, I invest. Whether it be stocks, ETF's, or mutual funds, I try to learn and maintain a balanced but not risk averse portfolio. As I am only 19, I believe that having a portfolio that has some low growth funds while also having decent exposure to more high yield high risk stocks is important. 
+
+I try to keep up with current trends and news on industries I am following, and am learning more about financial statements and qualitative analysis for stock picking. 
+
+This could translate to a new app in the future, keep your eyes peeled!
+
+
