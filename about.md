@@ -13,12 +13,6 @@ layout: page
 <p>Outside of class and projects, I enjoy cycling, weightlifting, playing basketball, travelling, hiking, reading, and finding good places to eat. If you are looking for a good book / place to eat, or you have any recommendations, feel free to let me know!<p>
 <h2>Skills</h2>
 
-<p align="center">
-  <img width="350" height="128" src="IMG_2912.HEIC">
-
-</p>
-
-
 <ul class="skill-list">
 	<li>Python - Pandas - scikit-learn</li>
 	<li>Git</li>
@@ -30,5 +24,10 @@ layout: page
 	<li>Adobe Photoshop</li>
 	<li>Excel w/ VBA</li>
 </ul>
+
+<p align="center">
+  <img width="968" height="386" src="IMG_2912.HEIC">
+
+</p>
 
 
