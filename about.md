@@ -25,9 +25,5 @@ layout: page
 	<li>Excel w/ VBA</li>
 </ul>
 
-<p align="center">
-  <img width="968" height="386" src="IMG_2912.HEIC">
-
-</p>
 
 
