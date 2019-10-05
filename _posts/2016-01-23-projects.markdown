@@ -20,7 +20,6 @@ As someone allergic to peanuts and treenuts, it is often difficult to find sweet
 
 <p align="center">
   <img width="750" height="400" src="money.jpg">
-
 </p>
 
 ## Project 2: Investment Strategies and Decisions
