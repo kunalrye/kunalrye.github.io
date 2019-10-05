@@ -19,7 +19,7 @@ externalLink: false
 As someone allergic to peanuts and treenuts, it is often difficult to find sweets, snacks, and other food items that I can eat, especially convenient food. I am working on developing the business case for a brand that will produce healthy food items for individuals allergic to peanuts and treenuts.
 
 <p align="center">
-  <img width="640" height="375" src="money.jpg">
+  <img width="750" height="400" src="money.jpg">
 
 </p>
 
