@@ -1,9 +1,9 @@
 ﻿---
 title: "Current Projects"
 layout: post
-date: 2019-10-04 22:10
+date: 2020-07-29 22:10
 # tag: jekyll
-# image: 
+# image:
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -13,21 +13,13 @@ author: kunalrai
 externalLink: false
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img width="640" height="375" src="https://www.lockheedmartin.com/content/dam/lockheed-martin/aero/photo/F-35/F35Direct_PR.jpg">
 
-</p>
+</p> -->
 
-## Project 1: Food Startup
+## Work in Progress
+Turns out sometimes you start things that don't go anywhere or sometimes you get beat to market.
+Anyway, its still a fun journey. Some recent projects I worked on were unlucky, and I decided to take a break from those to explore new paths.
 
-As someone allergic to peanuts and treenuts, it is often difficult to find sweets, snacks, and other food items that I can eat, especially convenient food. I am working on developing the business case for a brand that will produce healthy food items for individuals allergic to peanuts and treenuts.
-
-## Project 2: Investment Strategies and Decisions
-
-With the money I make from internships and research, I invest. Whether it be stocks, ETF's, or mutual funds, I try to learn and maintain a balanced but not risk averse portfolio. As I am only 19, I believe that having a portfolio that has some low growth funds while also having decent exposure to more high yield high risk stocks is important. 
-
-I try to keep up with current trends and news on industries I am following, and am learning more about financial statements and qualitative analysis for stock picking. 
-
-This could translate to a new app in the future, keep your eyes peeled!
-
-
+I am currently working on improving my music selection on Spotify because I got tired of Discover Weekly and Release Radar and could not get good recommendations from their song radio feature.
