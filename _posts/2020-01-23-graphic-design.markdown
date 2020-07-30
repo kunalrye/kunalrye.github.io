@@ -1,5 +1,5 @@
 ﻿---
-title: "Graphic Design"
+title: "Graphic Design :art:"
 layout: post
 date: 2020-01-23 22:10
 # tag: jekyll

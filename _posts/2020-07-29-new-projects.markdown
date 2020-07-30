@@ -1,5 +1,5 @@
 ﻿---
-title: "Current Projects"
+title: "Current Projects :sweat_smile:"
 layout: post
 date: 2020-07-29 22:10
 # tag: jekyll
