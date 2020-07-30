@@ -4,16 +4,16 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-# Hello, there! I'm Kunal Rai.
+# Hey! I'm Kunal
 
 ## About Me
 
-<p>I am currently a senior at Rice studying Electrical and Computer Engineering with a focus in Data Science along with a minor in Business. I am the President of Rice IEEE and a portfolio review associate at our undergraduate investment fund. I also do graphic design on the side, producing logos and images for various clubs and campus organizations.</p>
-<p>My interests in both engineering and business carry over to my career interests as well. I am passionate about design, new technology, and leveraging data to solve business problems. These align with my interest in product management and data science as career paths.<p>
-<p>Outside of class and projects, I enjoy cycling, weightlifting, playing basketball, traveling, hiking, reading, and finding good places to eat. If you are looking for a good book / place to eat, or you have any recommendations, feel free to let me know!<p>
+<p>I am currently a senior at Rice studying Electrical and Computer Engineering with a focus in Data Science along with a minor in Business.</p>
+<p>Product has become a primary interest of mine through learning more about design, as well as being unsatisfied product experiences that I have had.<p>
+<p>Outside of university, I have a number of things I am working on including myself. I am currently on a journey to dunk (almost there I can dunk a volleyball on a 10ft hoop), increasing my cycling distance and average speed, reading some books on a variety of things, as well as cooking.<p>
 <h2>Skills</h2>
 
-<ul class="skill-list">
+<!-- <ul class="skill-list">
 	<li>Python - Pandas - scikit-learn</li>
 	<li>Git</li>
 	<li>SQL</li>
@@ -23,4 +23,4 @@ layout: page
 	<li>Jupyter</li>
 	<li>Adobe Photoshop</li>
 	<li>Excel w/ VBA</li>
-</ul>
+</ul> -->

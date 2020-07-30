@@ -1,9 +1,9 @@
 # main text of home
-name: Kunal Rai 
+name: Kunal Rai
 bio: ECE Student @ Rice University
 
 # twitter summary info
-description: A website for my projects, work experience, and design work 
+description: A website about me
 
 # if it's an external image, update below for true
 # better with square images
@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-#resume-local: true 
+#resume-local: true
 resume-url: kunalrye.github.io/Kunal_Rai_Resume.pdf
 
 url: https://kunalrye.github.io
@@ -44,7 +44,7 @@ analytics-google: 'UA-147171187-1'
 linkedin: kunalsrai
 # youtube: myyoutube
 # spotify: myspotify
-github: kunalrye 
+github: kunalrye
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: rye-bread
@@ -98,7 +98,7 @@ related: true
 post-advance-links: [blog]
 
 # show author block at the end of a post ?
-show-author: true
+show-author: false
 
 # do you want some animations?
 animation: true
