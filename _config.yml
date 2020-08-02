@@ -15,7 +15,7 @@ picture: assets/images/profile.jpg
 resume: true
 resume-external: true
 #resume-local: true
-resume-url: kunalrye.github.io/Kunal_Rai_Resume.pdf
+resume-url: /Kunal_Rai_Resume.pdf
 
 url: https://kunalrye.github.io
 # your url: http://USERNAME.github.io
