@@ -19,10 +19,10 @@ externalLink: false
 </p> -->
 
 ## Work in Progress
-Turns out sometimes you start things that don't go anywhere or sometimes you get beat to market :anguished:.
-Anyway, it is still a fun journey. Some recent projects I worked on were unlucky, and I decided to take a break from those to explore new paths.
+It turns out that sometimes you start things that do not go anywhere or sometimes you get beat to market. :anguished:
+Regardless, it is still a fun journey. Some recent projects I worked on were unlucky, and I decided to take a break from those to explore new paths.
 
 I am currently working on a couple of projects for my own interest.
-One of them is improving my music selection on Spotify because I got tired of Discover Weekly and Release Radar and could not get good recommendations from their song radio feature. :dancer:
+One of them is improving my music selection on Spotify because I have gotten tired of Discover Weekly and Release Radar. I am also not satisfied with their song radio feature especially with respect to songs that are out of the artists typical genre. :dancer:
 
-Another is looking at the intersections of politically divisive hashtags :collision: or hashtags that are commonly associated with one view or another. I am just trying to get a feel for what kind of discussion is created if at all.
+Another is looking at the intersections of politically divisive hashtags :collision: or hashtags that are commonly associated with a specific view. I am trying to get a feel for what kind of discussion is created if at all from these tweets or from using certain hashtags.
