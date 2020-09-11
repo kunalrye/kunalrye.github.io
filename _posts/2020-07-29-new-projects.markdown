@@ -17,6 +17,9 @@ externalLink: false
   <img width="640" height="375" src="https://www.lockheedmartin.com/content/dam/lockheed-martin/aero/photo/F-35/F35Direct_PR.jpg">
 
 </p> -->
+## Past Case Studies
+
+Uber APM Assignment 2020: Really enjoyed creating this concept. It definitely would help improve the UberEats experience. UberSpots and UberHubs are brand names I chose, but this could work just as well without them. Check it out here: https://kunalrai.com/UberAssignment.pdf
 
 ## Work in Progress
 It turns out that sometimes you start things that do not go anywhere or sometimes you get beat to market. :anguished:
