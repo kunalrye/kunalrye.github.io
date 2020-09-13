@@ -11,10 +11,6 @@ author: kunalrai
 externalLink: false
 ---
 
-<!-- <p align="center">
-  <img width="640" height="375" src="https://www.lockheedmartin.com/content/dam/lockheed-martin/aero/photo/F-35/F35Direct_PR.jpg">
-
-</p> -->
 ## How I am working towards my goals
 This [link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSckwGxC1GmgVnEPD51P50_ReHOdond9IowU7ZO9SOlyYUl4Yrj8acD8RQEw2CFlDlyQo7BE_olqDmF/pubhtml?gid=1410560354&single=true) contains my current training program that I have made based on my previous programs and my new goals.
 

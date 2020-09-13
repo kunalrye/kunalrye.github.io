@@ -13,10 +13,6 @@ author: kunalrai
 externalLink: false
 ---
 
-<!-- <p align="center">
-  <img width="640" height="375" src="https://www.lockheedmartin.com/content/dam/lockheed-martin/aero/photo/F-35/F35Direct_PR.jpg">
-
-</p> -->
 ## Past Case Studies
 
 Uber APM Assignment 2020: Really enjoyed creating this concept. It definitely would help improve the UberEats experience with regards to the tail end of the delivery. UberSpots and UberHubs are brand names I chose, but this could work just as well without them. Check it out [here](https://kunalrai.com/UberAssignment.pdf).
