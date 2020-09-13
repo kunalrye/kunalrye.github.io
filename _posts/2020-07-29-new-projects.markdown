@@ -1,5 +1,5 @@
 ﻿---
-title: "Current Projects :sweat_smile:"
+title: "Current Projects"
 layout: post
 date: 2020-07-29 22:10
 # tag: jekyll
@@ -19,7 +19,7 @@ externalLink: false
 </p> -->
 ## Past Case Studies
 
-Uber APM Assignment 2020: Really enjoyed creating this concept. It definitely would help improve the UberEats experience with regards to the tail end of the delivery. UberSpots and UberHubs are brand names I chose, but this could work just as well without them. Check it out [here](https://kunalrai.com/UberAssignment.pdf). 
+Uber APM Assignment 2020: Really enjoyed creating this concept. It definitely would help improve the UberEats experience with regards to the tail end of the delivery. UberSpots and UberHubs are brand names I chose, but this could work just as well without them. Check it out [here](https://kunalrai.com/UberAssignment.pdf).
 
 ## Work in Progress
 It turns out that sometimes you start things that do not go anywhere or sometimes you get beat to market. :anguished:
